@@ -111,12 +111,17 @@ namespace Program
                                     
                                     Console.WriteLine("  Fatura tutarınız " +fatura+ " TL.");
 
-                                    Console.Write("  Faturanızı ödemek için E tuşuna , Ana menüye dönmek için 0 tuşuna basınız : ");
+                                    string userInput; //null kontrol
+                                    do
+                                    {
+                                        Console.Write("  Faturanızı ödemek için E tuşuna , Ana menüye dönmek için 0 tuşuna basınız : ");
+                                        userInput = Console.ReadLine();
 
+                                    } while (string.IsNullOrWhiteSpace(userInput) || ((userInput != "E") &&
+                                    (userInput!= "e") && (userInput != "0"))); // added later.
 
-                                    char karakter = Convert.ToChar(Console.ReadLine()); // karakterin NULL olup olmadığını kontrol etmedim.
+                                    char karakter = Convert.ToChar(userInput);
 
-                                  
                                     if (karakter == 'e' || karakter == 'E') 
                                     {
                                         if (bakiye >= fatura)
@@ -124,7 +129,7 @@ namespace Program
 
                                             bakiye -= fatura;
                                             fatura = 0;
-                                            Console.WriteLine("   Faturanız ödennmiştir :) \n");
+                                            Console.WriteLine("   Faturanız ödenmiştir :) \n");
 
                                         }
                                         else { Console.WriteLine("   Şu anda faturanızı ödemek için yeterli bakiyeniz yoktur. Ana menüye yönlendiriliyorsunuz... \n "); }

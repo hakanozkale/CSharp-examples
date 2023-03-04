@@ -28,3 +28,18 @@
 /Users/hakanozkale/Desktop/C#-programlama-lab/odev3/obj/Debug/net7.0/deneme3.pdb
 /Users/hakanozkale/Desktop/C#-programlama-lab/odev3/obj/Debug/net7.0/deneme3.genruntimeconfig.cache
 /Users/hakanozkale/Desktop/C#-programlama-lab/odev3/obj/Debug/net7.0/ref/deneme3.dll
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/bin/Debug/net7.0/deneme3
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/bin/Debug/net7.0/deneme3.deps.json
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/bin/Debug/net7.0/deneme3.runtimeconfig.json
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/bin/Debug/net7.0/deneme3.dll
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/bin/Debug/net7.0/deneme3.pdb
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/deneme3.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/deneme3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/deneme3.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/deneme3.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/deneme3.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/deneme3.dll
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/refint/deneme3.dll
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/deneme3.pdb
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/deneme3.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/Debug/net7.0/ref/deneme3.dll

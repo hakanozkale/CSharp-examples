@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hakanozkale/Desktop/C#-programlama-lab/odev3/deneme3.csproj",
+      "projectUniqueName": "/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/deneme3.csproj",
       "projectName": "deneme3",
-      "projectPath": "/Users/hakanozkale/Desktop/C#-programlama-lab/odev3/deneme3.csproj",
+      "projectPath": "/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/deneme3.csproj",
       "packagesPath": "/Users/hakanozkale/.nuget/packages/",
-      "outputPath": "/Users/hakanozkale/Desktop/C#-programlama-lab/odev3/obj/",
+      "outputPath": "/Users/hakanozkale/Desktop/csharp-programlama-lab/ATM-Software work3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hakanozkale/.nuget/NuGet/NuGet.Config"
