@@ -1,0 +1,45 @@
+/Users/hakanozkale/Desktop/deneme2/bin/Debug/net7.0/deneme2
+/Users/hakanozkale/Desktop/deneme2/bin/Debug/net7.0/deneme2.deps.json
+/Users/hakanozkale/Desktop/deneme2/bin/Debug/net7.0/deneme2.runtimeconfig.json
+/Users/hakanozkale/Desktop/deneme2/bin/Debug/net7.0/deneme2.dll
+/Users/hakanozkale/Desktop/deneme2/bin/Debug/net7.0/deneme2.pdb
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/deneme2.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/deneme2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/deneme2.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/deneme2.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/deneme2.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/deneme2.dll
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/refint/deneme2.dll
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/deneme2.pdb
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/deneme2.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/deneme2/obj/Debug/net7.0/ref/deneme2.dll
+/Users/hakanozkale/Desktop/programlama-lab/odev2/bin/Debug/net7.0/deneme2
+/Users/hakanozkale/Desktop/programlama-lab/odev2/bin/Debug/net7.0/deneme2.deps.json
+/Users/hakanozkale/Desktop/programlama-lab/odev2/bin/Debug/net7.0/deneme2.runtimeconfig.json
+/Users/hakanozkale/Desktop/programlama-lab/odev2/bin/Debug/net7.0/deneme2.dll
+/Users/hakanozkale/Desktop/programlama-lab/odev2/bin/Debug/net7.0/deneme2.pdb
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/deneme2.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/deneme2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/deneme2.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/deneme2.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/deneme2.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/deneme2.dll
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/refint/deneme2.dll
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/deneme2.pdb
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/deneme2.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/programlama-lab/odev2/obj/Debug/net7.0/ref/deneme2.dll
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/bin/Debug/net7.0/deneme2
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/bin/Debug/net7.0/deneme2.deps.json
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/bin/Debug/net7.0/deneme2.runtimeconfig.json
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/bin/Debug/net7.0/deneme2.dll
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/bin/Debug/net7.0/deneme2.pdb
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/deneme2.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/deneme2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/deneme2.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/deneme2.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/deneme2.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/deneme2.dll
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/refint/deneme2.dll
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/deneme2.pdb
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/deneme2.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/C#-programlama-lab/Sayiyi tahmin etme work2/obj/Debug/net7.0/ref/deneme2.dll

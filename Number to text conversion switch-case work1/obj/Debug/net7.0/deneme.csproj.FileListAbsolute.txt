@@ -1,0 +1,45 @@
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/deneme.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/deneme.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/deneme.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/deneme.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/deneme/bin/Debug/net7.0/deneme
+/Users/hakanozkale/Desktop/deneme/bin/Debug/net7.0/deneme.deps.json
+/Users/hakanozkale/Desktop/deneme/bin/Debug/net7.0/deneme.runtimeconfig.json
+/Users/hakanozkale/Desktop/deneme/bin/Debug/net7.0/deneme.dll
+/Users/hakanozkale/Desktop/deneme/bin/Debug/net7.0/deneme.pdb
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/deneme.dll
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/refint/deneme.dll
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/deneme.pdb
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/deneme.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/deneme/obj/Debug/net7.0/ref/deneme.dll
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/bin/Debug/net7.0/deneme
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/bin/Debug/net7.0/deneme.deps.json
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/bin/Debug/net7.0/deneme.runtimeconfig.json
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/bin/Debug/net7.0/deneme.dll
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/bin/Debug/net7.0/deneme.pdb
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/deneme.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/deneme.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/deneme.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/deneme.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/deneme.dll
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/refint/deneme.dll
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/deneme.pdb
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/deneme.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/programlama-lab/odev 1/obj/Debug/net7.0/ref/deneme.dll
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/bin/Debug/net7.0/deneme
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/bin/Debug/net7.0/deneme.deps.json
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/bin/Debug/net7.0/deneme.runtimeconfig.json
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/bin/Debug/net7.0/deneme.dll
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/bin/Debug/net7.0/deneme.pdb
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/deneme.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/deneme.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/deneme.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/deneme.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/deneme.dll
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/refint/deneme.dll
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/deneme.pdb
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/deneme.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/programlama-lab/Sayiyi metin şeklinde yazan switch-case/obj/Debug/net7.0/ref/deneme.dll

@@ -1,0 +1,30 @@
+/Users/hakanozkale/Desktop/odev4/bin/Debug/net7.0/odev4
+/Users/hakanozkale/Desktop/odev4/bin/Debug/net7.0/odev4.deps.json
+/Users/hakanozkale/Desktop/odev4/bin/Debug/net7.0/odev4.runtimeconfig.json
+/Users/hakanozkale/Desktop/odev4/bin/Debug/net7.0/odev4.dll
+/Users/hakanozkale/Desktop/odev4/bin/Debug/net7.0/odev4.pdb
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/odev4.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/odev4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/odev4.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/odev4.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/odev4.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/odev4.dll
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/refint/odev4.dll
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/odev4.pdb
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/odev4.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/odev4/obj/Debug/net7.0/ref/odev4.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/bin/Debug/net7.0/odev4
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/bin/Debug/net7.0/odev4.deps.json
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/bin/Debug/net7.0/odev4.runtimeconfig.json
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/bin/Debug/net7.0/odev4.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/bin/Debug/net7.0/odev4.pdb
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/odev4.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/odev4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/odev4.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/odev4.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/odev4.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/odev4.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/refint/odev4.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/odev4.pdb
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/odev4.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Numerical lotto application work4/obj/Debug/net7.0/ref/odev4.dll

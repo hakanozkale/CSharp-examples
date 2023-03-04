@@ -1,0 +1,60 @@
+/Users/hakanozkale/Desktop/odev6/bin/Debug/net7.0/odev6
+/Users/hakanozkale/Desktop/odev6/bin/Debug/net7.0/odev6.deps.json
+/Users/hakanozkale/Desktop/odev6/bin/Debug/net7.0/odev6.runtimeconfig.json
+/Users/hakanozkale/Desktop/odev6/bin/Debug/net7.0/odev6.dll
+/Users/hakanozkale/Desktop/odev6/bin/Debug/net7.0/odev6.pdb
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/odev6.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/odev6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/odev6.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/odev6.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/odev6.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/odev6.dll
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/refint/odev6.dll
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/odev6.pdb
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/odev6.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/odev6/obj/Debug/net7.0/ref/odev6.dll
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/bin/Debug/net7.0/odev6
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/bin/Debug/net7.0/odev6.deps.json
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/bin/Debug/net7.0/odev6.runtimeconfig.json
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/bin/Debug/net7.0/odev6.dll
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/bin/Debug/net7.0/odev6.pdb
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/odev6.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/odev6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/odev6.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/odev6.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/odev6.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/odev6.dll
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/refint/odev6.dll
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/odev6.pdb
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/odev6.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/lab odevleri/10x10luk iki boyutlu dizi/obj/Debug/net7.0/ref/odev6.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6.deps.json
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6.runtimeconfig.json
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6.pdb
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/refint/odev6.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.pdb
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/ref/odev6.dll
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6.deps.json
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6.runtimeconfig.json
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6.dll
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/bin/Debug/net7.0/odev6.pdb
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.dll
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/refint/odev6.dll
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.pdb
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/odev6.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/programlama-lab/Two dimensional series of 10x10 work6/obj/Debug/net7.0/ref/odev6.dll

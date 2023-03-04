@@ -1,0 +1,30 @@
+/Users/hakanozkale/Desktop/odev5/bin/Debug/net7.0/odev5
+/Users/hakanozkale/Desktop/odev5/bin/Debug/net7.0/odev5.deps.json
+/Users/hakanozkale/Desktop/odev5/bin/Debug/net7.0/odev5.runtimeconfig.json
+/Users/hakanozkale/Desktop/odev5/bin/Debug/net7.0/odev5.dll
+/Users/hakanozkale/Desktop/odev5/bin/Debug/net7.0/odev5.pdb
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/odev5.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/odev5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/odev5.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/odev5.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/odev5.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/odev5.dll
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/refint/odev5.dll
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/odev5.pdb
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/odev5.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/odev5/obj/Debug/net7.0/ref/odev5.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/bin/Debug/net7.0/odev5
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/bin/Debug/net7.0/odev5.deps.json
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/bin/Debug/net7.0/odev5.runtimeconfig.json
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/bin/Debug/net7.0/odev5.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/bin/Debug/net7.0/odev5.pdb
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/odev5.csproj.AssemblyReference.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/odev5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/odev5.AssemblyInfoInputs.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/odev5.AssemblyInfo.cs
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/odev5.csproj.CoreCompileInputs.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/odev5.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/refint/odev5.dll
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/odev5.pdb
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/odev5.genruntimeconfig.cache
+/Users/hakanozkale/Desktop/C# examples-programlama-lab/genetics application-genApp work5/obj/Debug/net7.0/ref/odev5.dll
